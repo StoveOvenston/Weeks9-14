@@ -1,0 +1,3084 @@
+fileFormatVersion: 2
+guid: 9dc61fc1aea958041b77ea813e376695
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1284
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4bead399111448ba3f78a8698fd2c
+      internalID: -1855612820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1284
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69414b75773ab56429268b4db51d4c74
+      internalID: 1026079680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1284
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844b7e86d93d2a48a59c485c0bd18be
+      internalID: -171006563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1235
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d747fef0f6f83654db45c10bfcae70e0
+      internalID: -1588332056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1235
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4e275bea4ef64e86f0348344c314e
+      internalID: 952170873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1235
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277ec285e9497749b39c248d0f3d989
+      internalID: 260391978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1235
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748cbf3eb73f284c9ce7a9c54646615
+      internalID: 142594897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1235
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb42ec18507e8a47b0a01ace0a1a619
+      internalID: 1426219990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1236
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b8552fdc6fef4f9fb3b37a2c4335c
+      internalID: -139868369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1236
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d252291ebe43df439caa251cde5475f
+      internalID: -964940628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1235
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0949c2504ed0d419b23636daadafa2
+      internalID: -929665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1238
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d0aa2396cfed48966a8590a6b474d
+      internalID: 1007383711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1175
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a7502baa50dd4d9d14f5d29a92df5
+      internalID: 1104410868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1175
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933584398384134a87ccabcbc760a8d
+      internalID: 1699646397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1170
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd31e87571bf6749a15a254af8fccae
+      internalID: 423621294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1169
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a210aa88b8657e4e9edff043a9f359f
+      internalID: -1459733609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1175
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb67bf7d1741254187ca1ca9d079081
+      internalID: 402030997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1176
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0c4c0218376a45b2ba0a647a2566e
+      internalID: 1029252234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1168
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665b367c27b93ee4281c7c2167684be4
+      internalID: 1062975520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1166
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa19a92f09955bb4bb03c620cefcefb5
+      internalID: 1432774161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1115
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933365af24605a241a31ce2bea98f325
+      internalID: -1878989380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1114
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd91fe93dbc1914e876313a4b4d1f03
+      internalID: -2130857422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1110
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef5b4fcfac98d469aa88b9d1c3d555
+      internalID: -2054538884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1108
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3509b78e71df14c8efc17283c5921e
+      internalID: 851967851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1115
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187923f553a8c82468a0fca6e1bdabef
+      internalID: -1814522408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1115
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225db89b15316b040b06f0a8eaffff21
+      internalID: 222315645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1108
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3d76c78b55b74a9f2762d0e44e8a6
+      internalID: 884147398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1106
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddcddf12c5c23442b851cdf369349c5
+      internalID: 308609728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1061
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c5f3ee78b64c49b525330756435bf
+      internalID: -259172034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1066
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d88b03504156742b65d27ed36ff963
+      internalID: 587442272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1066
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1300165be780f4a9af29ab826f6880
+      internalID: 461564028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1066
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b7c4326d4873408e860fd6983555e
+      internalID: 1268259517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1063
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea40b6b594d83a448ea9022234452ca
+      internalID: 258979654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1063
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f483621eb9124685458a181fcdf9d
+      internalID: -249689008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1063
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a488ab528785214ea8efaa1729c4a4e
+      internalID: 563603496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1016
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5f754fb5a4e743893d162e9eee68d
+      internalID: 167961584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1018
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f4c02e20928043a4c6517cb15225d
+      internalID: 406966326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1022
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06637f13de3e64ca9d65e185ae2a0a
+      internalID: -226944636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1021
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46af7f48022b94bb5744698143da52
+      internalID: 1167431187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1016
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe4e28a0a41524684e7dae9f214dd9
+      internalID: 1527577093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1018
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010f93e8e45c7441840984457901f46
+      internalID: -731097231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1022
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49f9d98f883f447ac535c392f1bc40
+      internalID: 1936039793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_42
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1020
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296ea9d1cac20ff44940ff6c0b5c7509
+      internalID: -1791678366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 964
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a824ca1750c7034a8955a918728b236
+      internalID: 2062837446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_44
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 966
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb418356732714cbf19bae4878b13d
+      internalID: 1947135790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 966
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1cd218e35215b4f93920d94ddc524b
+      internalID: 255867131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 971
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ffd1406016e0409d42c465757e85c
+      internalID: -1607435803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 961
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b6655b97cc01041a7a41aafe00241d
+      internalID: 19063243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 974
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b059cf2b9a640545b95d83cc2f2a935
+      internalID: -962879640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851c4ad12f9bb8043a3c9d57a0e59e18
+      internalID: 953911463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 901
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa164edac8fc2e4caa48cfd6969f122
+      internalID: 542454614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 897
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eae67fb4957fd4fa81c96eb848ca89
+      internalID: 509030924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276e8768b5e8274d97a11000025a0e3
+      internalID: -356846280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 902
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb15c58dc8314044b1e4d44995baf76
+      internalID: -281675108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 903
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a79be5287d044198960aacf7a8e59
+      internalID: 2001300557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_55
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 895
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99aaf0920a3cd4d8f9f105bed6ef6d
+      internalID: -664149156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_56
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 893
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa56698b7bf05946a03a1e6d529eebe
+      internalID: -38796972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe4f063a7f6e14898543412723ed0f
+      internalID: 134769309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 832
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a542884baffd5fd4eb577f3aa9c1e733
+      internalID: -900145692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 832
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc5f75d6ef5e94eb675b8029e0e008
+      internalID: 1106060520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 832
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ac972e79b45741815a2f7304d5cfb
+      internalID: -946098348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 834
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb21e8eca18f3c4281826ea02414401
+      internalID: -2014292615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 834
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc4fb6134e30e478ad5821dc557758
+      internalID: 1417631567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 771
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380888742448f84c9af63f6973e1a3f
+      internalID: -1185839325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 768
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70e59dfd423c1458ba3944cd896558
+      internalID: -707512594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 772
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d15debc0df4a4d8d509a76ff8ad22
+      internalID: 394510635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 771
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b1c4800975aa4aa6c09e6594761dc
+      internalID: 82314307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 769
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a3efa07cae3c4b8cd2b694dd7ae0a
+      internalID: -1398067035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 769
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025109ac4a740ad49b8ca3e724e392ee
+      internalID: 115057643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_69
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 772
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3442efb2d5e8144487fe00417957918
+      internalID: -306413788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 771
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7bb744c5bc0c4e954f92bbb6a2188
+      internalID: -521887920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 715
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31264fb6ae8a7e241ab227ebfbf4878c
+      internalID: 423573575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 715
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87180bcb4359f144da3fd84869990180
+      internalID: 334479435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 715
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865875940b2b3f341932a070eb17ed4b
+      internalID: -191310517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 714
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b889ab48b1f2524a8c8564b15a79a4a
+      internalID: -165398063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 713
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05c6025f69fe743853f8404791e13e
+      internalID: 1438939261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 632
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029d490f4d31867448fb24a720e2e255
+      internalID: 1805086178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 631
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b048c4f5912a7841bb31e90fc69d5ca
+      internalID: -788315794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 628
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f9aa04b6d2b74e802e6e1e024d0c3
+      internalID: 1561719322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_79
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 609
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca07acc5f57df4795e02819e98f11c
+      internalID: 1960120936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 612
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee838f60821c8459241435a2cb9978
+      internalID: -1582863146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 630
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df9ffd36ce45d34c968cc0ffe547383
+      internalID: 109610895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 633
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc27bd73cb31ffb4583a5b4350dbb3e5
+      internalID: -849396677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 545
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ff239b0299a9f4ea5cfe2f4e553f50
+      internalID: -1041711138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 557
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2481983c3997a7c419b2c69508bbf398
+      internalID: 646350676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 541
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623361c4692519f489f49d326a43dd4b
+      internalID: 409806886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_86
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 531
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ce393bfe30194cb15ebefd8e962f1
+      internalID: 2007270787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 554
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f703e9401ea8d4da14e6144f756417
+      internalID: -248696885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_88
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 535
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be8afff560055248aa6f4f396f575a8
+      internalID: -341417580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_89
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 470
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398de6ee0003894a95751c282f18fec
+      internalID: -63990948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 473
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa9d49d1cdf3d48b56fa8489c84300
+      internalID: -1761244050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 450
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a19ab762319f2544abbeee87710de5f
+      internalID: 980528927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_92
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 450
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cab7a364c320843b17da104e7e3013
+      internalID: 969438750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 456
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e981f008a0f20a4ea1214c24e33aeae
+      internalID: 537717034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec774a9135a74438844fc3abbc659c
+      internalID: 1272066312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_95
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 393
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49944b508453e2f408351c2b96f72650
+      internalID: 1318866501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_96
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 396
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ae73f4c847b64097676e7dd263e93
+      internalID: -323878775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_97
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 396
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1dd4a7d1a2a4a4ebe1bc84d0f8f480
+      internalID: -1410984018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_98
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 398
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4e49bbc6d7cf4e9190929ef8b664d
+      internalID: 445487847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_99
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 398
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a2123f2c0b41c478d46396f56f41ba
+      internalID: 1507898638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64036d622fe29704fb4924d32876c95b
+      internalID: 377297237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c7ba8c27b7f744abf6e37267ce4c89
+      internalID: -1862349858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 333
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce446d643806e24ea46d7145893eb0f
+      internalID: 1202962284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_103
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb995370b69064ea75eff8ad141b07
+      internalID: 2066212876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_104
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 330
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0350466e0f9241a44f8921a6c2aa5
+      internalID: 1437722906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 238
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345a2571e14aee488a9efccb018db90
+      internalID: 234811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_106
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 238
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772d85e9a9854d046b1331cb1450d694
+      internalID: -1481768914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 238
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab17486dc31e46418eca894f9db40c6
+      internalID: 1031902264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_108
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 238
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65ca658f583144a9c8e3d728feb20e
+      internalID: -1537375114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_109
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 251
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae37c4a878e9c9a448d85fe3bb302a5c
+      internalID: -274124582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_110
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 251
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bbff28bf1b6b148a7183d9b623d0a4
+      internalID: -78711371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_111
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 251
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0932ec2c1b0c445886f78f4901ea0b
+      internalID: -1246831059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_112
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 251
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1378a257a320bd4c83a9e2fe95b1906
+      internalID: -814835434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4001978d1d1b45aa46388a3607118
+      internalID: -615653727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_114
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11238bde2a26149ab5bf02c0ed4ce6
+      internalID: -1980308719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 142
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ec94563f6b554b9bed2f9a9b3a882
+      internalID: 1698104213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_116
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 142
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3d99079e5aa44a8ee8b20b71f019e
+      internalID: 1968603476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 133
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da2505d6ee689941baad10778127f4b
+      internalID: 119188562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_118
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 131
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ddd941ef5d1084a9170609abb309c5
+      internalID: 832218229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 139
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ed085a1184364191462079cb3d38f
+      internalID: -405313409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bde563bb5e4104cbbed9ad62e72221
+      internalID: 851943198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_121
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39bdc7195361d47879ec34fed5902c
+      internalID: 1916278907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ec425bdfe19c045899be3f01f47110
+      internalID: 2010049086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36322f68f9f9cd042876e51cc42f0223
+      internalID: 344580414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_124
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 43
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b91bb0d1f9c74a8997cec99ce0368
+      internalID: 1853966393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 75
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7c1151a283384592c9649fce20268
+      internalID: -353743450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_126
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 25
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e457cab388174495ba78f6c397ea7
+      internalID: 1625398356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_127
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053536f00bd524941a9ce679425cd6d6
+      internalID: -2005391831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_128
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6459328b880234ca724eee6ab420f0
+      internalID: -1499133570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_129
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c31b079706c584781304c916530fe7
+      internalID: -1628414700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_130
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842f28fbd3129641a93d0c0bafb9131
+      internalID: 282550491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_131
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc2799a0765b94b84356d7b2302a0c
+      internalID: 296067827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_132
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc288510a73f5684ab8ecfc9ebdc239c
+      internalID: 1210320855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cba931971a0b5149a4d297f6d1ae8a0
+      internalID: -1061858804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_luke-skywalker-png_1513832_134
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3057f252991b34ba1964a058092a86
+      internalID: -1296755616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_luke-skywalker-png_1513832_0: -1855612820
+      NicePng_luke-skywalker-png_1513832_1: 1026079680
+      NicePng_luke-skywalker-png_1513832_10: -929665647
+      NicePng_luke-skywalker-png_1513832_100: 377297237
+      NicePng_luke-skywalker-png_1513832_101: -1862349858
+      NicePng_luke-skywalker-png_1513832_102: 1202962284
+      NicePng_luke-skywalker-png_1513832_103: 2066212876
+      NicePng_luke-skywalker-png_1513832_104: 1437722906
+      NicePng_luke-skywalker-png_1513832_105: 234811697
+      NicePng_luke-skywalker-png_1513832_106: -1481768914
+      NicePng_luke-skywalker-png_1513832_107: 1031902264
+      NicePng_luke-skywalker-png_1513832_108: -1537375114
+      NicePng_luke-skywalker-png_1513832_109: -274124582
+      NicePng_luke-skywalker-png_1513832_11: 1007383711
+      NicePng_luke-skywalker-png_1513832_110: -78711371
+      NicePng_luke-skywalker-png_1513832_111: -1246831059
+      NicePng_luke-skywalker-png_1513832_112: -814835434
+      NicePng_luke-skywalker-png_1513832_113: -615653727
+      NicePng_luke-skywalker-png_1513832_114: -1980308719
+      NicePng_luke-skywalker-png_1513832_115: 1698104213
+      NicePng_luke-skywalker-png_1513832_116: 1968603476
+      NicePng_luke-skywalker-png_1513832_117: 119188562
+      NicePng_luke-skywalker-png_1513832_118: 832218229
+      NicePng_luke-skywalker-png_1513832_119: -405313409
+      NicePng_luke-skywalker-png_1513832_12: 1104410868
+      NicePng_luke-skywalker-png_1513832_120: 851943198
+      NicePng_luke-skywalker-png_1513832_121: 1916278907
+      NicePng_luke-skywalker-png_1513832_122: 2010049086
+      NicePng_luke-skywalker-png_1513832_123: 344580414
+      NicePng_luke-skywalker-png_1513832_124: 1853966393
+      NicePng_luke-skywalker-png_1513832_125: -353743450
+      NicePng_luke-skywalker-png_1513832_126: 1625398356
+      NicePng_luke-skywalker-png_1513832_127: -2005391831
+      NicePng_luke-skywalker-png_1513832_128: -1499133570
+      NicePng_luke-skywalker-png_1513832_129: -1628414700
+      NicePng_luke-skywalker-png_1513832_13: 1699646397
+      NicePng_luke-skywalker-png_1513832_130: 282550491
+      NicePng_luke-skywalker-png_1513832_131: 296067827
+      NicePng_luke-skywalker-png_1513832_132: 1210320855
+      NicePng_luke-skywalker-png_1513832_133: -1061858804
+      NicePng_luke-skywalker-png_1513832_134: -1296755616
+      NicePng_luke-skywalker-png_1513832_14: 423621294
+      NicePng_luke-skywalker-png_1513832_15: -1459733609
+      NicePng_luke-skywalker-png_1513832_16: 402030997
+      NicePng_luke-skywalker-png_1513832_17: 1029252234
+      NicePng_luke-skywalker-png_1513832_18: 1062975520
+      NicePng_luke-skywalker-png_1513832_19: 1432774161
+      NicePng_luke-skywalker-png_1513832_2: -171006563
+      NicePng_luke-skywalker-png_1513832_20: -1878989380
+      NicePng_luke-skywalker-png_1513832_21: -2130857422
+      NicePng_luke-skywalker-png_1513832_22: -2054538884
+      NicePng_luke-skywalker-png_1513832_23: 851967851
+      NicePng_luke-skywalker-png_1513832_24: -1814522408
+      NicePng_luke-skywalker-png_1513832_25: 222315645
+      NicePng_luke-skywalker-png_1513832_26: 884147398
+      NicePng_luke-skywalker-png_1513832_27: 308609728
+      NicePng_luke-skywalker-png_1513832_28: -259172034
+      NicePng_luke-skywalker-png_1513832_29: 587442272
+      NicePng_luke-skywalker-png_1513832_3: -1588332056
+      NicePng_luke-skywalker-png_1513832_30: 461564028
+      NicePng_luke-skywalker-png_1513832_31: 1268259517
+      NicePng_luke-skywalker-png_1513832_32: 258979654
+      NicePng_luke-skywalker-png_1513832_33: -249689008
+      NicePng_luke-skywalker-png_1513832_34: 563603496
+      NicePng_luke-skywalker-png_1513832_35: 167961584
+      NicePng_luke-skywalker-png_1513832_36: 406966326
+      NicePng_luke-skywalker-png_1513832_37: -226944636
+      NicePng_luke-skywalker-png_1513832_38: 1167431187
+      NicePng_luke-skywalker-png_1513832_39: 1527577093
+      NicePng_luke-skywalker-png_1513832_4: 952170873
+      NicePng_luke-skywalker-png_1513832_40: -731097231
+      NicePng_luke-skywalker-png_1513832_41: 1936039793
+      NicePng_luke-skywalker-png_1513832_42: -1791678366
+      NicePng_luke-skywalker-png_1513832_43: 2062837446
+      NicePng_luke-skywalker-png_1513832_44: 1947135790
+      NicePng_luke-skywalker-png_1513832_45: 255867131
+      NicePng_luke-skywalker-png_1513832_46: -1607435803
+      NicePng_luke-skywalker-png_1513832_47: 19063243
+      NicePng_luke-skywalker-png_1513832_48: -962879640
+      NicePng_luke-skywalker-png_1513832_49: 953911463
+      NicePng_luke-skywalker-png_1513832_5: 260391978
+      NicePng_luke-skywalker-png_1513832_50: 542454614
+      NicePng_luke-skywalker-png_1513832_51: 509030924
+      NicePng_luke-skywalker-png_1513832_52: -356846280
+      NicePng_luke-skywalker-png_1513832_53: -281675108
+      NicePng_luke-skywalker-png_1513832_54: 2001300557
+      NicePng_luke-skywalker-png_1513832_55: -664149156
+      NicePng_luke-skywalker-png_1513832_56: -38796972
+      NicePng_luke-skywalker-png_1513832_57: 134769309
+      NicePng_luke-skywalker-png_1513832_58: -900145692
+      NicePng_luke-skywalker-png_1513832_59: 1106060520
+      NicePng_luke-skywalker-png_1513832_6: 142594897
+      NicePng_luke-skywalker-png_1513832_60: -946098348
+      NicePng_luke-skywalker-png_1513832_61: -2014292615
+      NicePng_luke-skywalker-png_1513832_62: 1417631567
+      NicePng_luke-skywalker-png_1513832_63: -1185839325
+      NicePng_luke-skywalker-png_1513832_64: -707512594
+      NicePng_luke-skywalker-png_1513832_65: 394510635
+      NicePng_luke-skywalker-png_1513832_66: 82314307
+      NicePng_luke-skywalker-png_1513832_67: -1398067035
+      NicePng_luke-skywalker-png_1513832_68: 115057643
+      NicePng_luke-skywalker-png_1513832_69: -306413788
+      NicePng_luke-skywalker-png_1513832_7: 1426219990
+      NicePng_luke-skywalker-png_1513832_70: -521887920
+      NicePng_luke-skywalker-png_1513832_71: 423573575
+      NicePng_luke-skywalker-png_1513832_72: 334479435
+      NicePng_luke-skywalker-png_1513832_73: -191310517
+      NicePng_luke-skywalker-png_1513832_74: -165398063
+      NicePng_luke-skywalker-png_1513832_75: 1438939261
+      NicePng_luke-skywalker-png_1513832_76: 1805086178
+      NicePng_luke-skywalker-png_1513832_77: -788315794
+      NicePng_luke-skywalker-png_1513832_78: 1561719322
+      NicePng_luke-skywalker-png_1513832_79: 1960120936
+      NicePng_luke-skywalker-png_1513832_8: -139868369
+      NicePng_luke-skywalker-png_1513832_80: -1582863146
+      NicePng_luke-skywalker-png_1513832_81: 109610895
+      NicePng_luke-skywalker-png_1513832_82: -849396677
+      NicePng_luke-skywalker-png_1513832_83: -1041711138
+      NicePng_luke-skywalker-png_1513832_84: 646350676
+      NicePng_luke-skywalker-png_1513832_85: 409806886
+      NicePng_luke-skywalker-png_1513832_86: 2007270787
+      NicePng_luke-skywalker-png_1513832_87: -248696885
+      NicePng_luke-skywalker-png_1513832_88: -341417580
+      NicePng_luke-skywalker-png_1513832_89: -63990948
+      NicePng_luke-skywalker-png_1513832_9: -964940628
+      NicePng_luke-skywalker-png_1513832_90: -1761244050
+      NicePng_luke-skywalker-png_1513832_91: 980528927
+      NicePng_luke-skywalker-png_1513832_92: 969438750
+      NicePng_luke-skywalker-png_1513832_93: 537717034
+      NicePng_luke-skywalker-png_1513832_94: 1272066312
+      NicePng_luke-skywalker-png_1513832_95: 1318866501
+      NicePng_luke-skywalker-png_1513832_96: -323878775
+      NicePng_luke-skywalker-png_1513832_97: -1410984018
+      NicePng_luke-skywalker-png_1513832_98: 445487847
+      NicePng_luke-skywalker-png_1513832_99: 1507898638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
