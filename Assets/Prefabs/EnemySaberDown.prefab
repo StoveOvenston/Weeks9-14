@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2463472974409969391}
   - component: {fileID: 9074459258142240519}
+  - component: {fileID: -196979685192972106}
   m_Layer: 0
   m_Name: EnemySaberDown
   m_TagString: Untagged
@@ -84,3 +85,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-196979685192972106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4535207452695197520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba98272f91d1294d8ebdecacf9f25c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -85,8 +85,8 @@ public class Spawner : MonoBehaviour
     //Function for enemy spawning
     void EnemySpawn()
     {
-        if (enemysaberneutral == null && enemysaberup == null && enemysaberdown == null)
-        {
+       if (enemysaberneutral == null && enemysaberup == null && enemysaberdown == null)
+       {
             enemySpawn = UnityEngine.Random.Range(1, 4);
             if (enemySpawn == 1 && enemysaberneutral == null)
             {
@@ -109,7 +109,7 @@ public class Spawner : MonoBehaviour
                 enemySaberUp = false;
                 enemysaberdown = Instantiate(EnemySaberDown);
             }
-        }
+       }
     }
     }
 
