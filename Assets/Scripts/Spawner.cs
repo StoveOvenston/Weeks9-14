@@ -12,25 +12,25 @@ public class Spawner : MonoBehaviour
     public GameObject EnemySaberDown;
     public GameObject EnemySaberUp;
     public GameObject EnemySaberNeutral;
-    //CReating private game objects for instantiated objects
-    GameObject saberneutral;
-     GameObject saberup;
-     GameObject saberdown;
+    //CReating  game objects for instantiated objects making them public so that they be referenced elsewhere
+    public GameObject saberneutral;
+   public  GameObject saberup;
+     public GameObject saberdown;
     //Same for enemies
      GameObject enemysaberdown;
      GameObject enemysaberup;
      GameObject enemysaberneutral;
-    int enemySpawn; 
+    int enemySpawn;
     //Creating a boolean for each stance (enemy and player)
     //Player saber neutral is initially set to true as that is the stance the player sprite holds upon starting the game
-    Boolean playerSaberNeutral = true;
+    public Boolean playerSaberNeutral = true;
     //The other stances are set to false until instantiated
-    Boolean playerSaberUp = false;
-    Boolean playerSaberDown = false;
+   public Boolean playerSaberUp = false;
+    public Boolean playerSaberDown = false;
     //Enemy stances are all set to false until they are spawned
-    Boolean enemySaberNeutral = false;
-    Boolean enemySaberDown = false;
-    Boolean enemySaberUp = false; 
+    public Boolean enemySaberNeutral = false;
+    public Boolean enemySaberDown = false;
+    public Boolean enemySaberUp = false; 
     // Start is called before the first frame update
     void Start()
     {

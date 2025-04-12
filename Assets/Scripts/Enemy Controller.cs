@@ -2,9 +2,11 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class EnemyController : MonoBehaviour
 {
+    public UnityEvent OnUpwardCombo;
     //Coroutine for enemymovement
     Coroutine enemyMovement;
     // Start is called before the first frame update
