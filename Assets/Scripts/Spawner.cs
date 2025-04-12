@@ -37,7 +37,7 @@ public class Spawner : MonoBehaviour
     public Boolean enemySaberDown = false;
     public Boolean enemySaberUp = false; 
     // Start is called before the first frame update
-    void Start()
+   public void Start()
     {
         saberneutral = Instantiate(SaberNeutral);
         //Get component from combat object to get access to combat script
@@ -93,8 +93,10 @@ public class Spawner : MonoBehaviour
     //Function for enemy spawning
     void EnemySpawn()
     {
+        //Makes sure only 1 enemy spawns at a time by checking if any others have been spawned already
        if (enemysaberneutral == null && enemysaberup == null && enemysaberdown == null)
        {
+          //Checks a random number between 1-4 and spawns the associated stance
             enemySpawn = UnityEngine.Random.Range(1, 4);
             if (enemySpawn == 1 && enemysaberneutral == null)
             {
@@ -102,7 +104,7 @@ public class Spawner : MonoBehaviour
                 enemySaberDown = false;
                 enemySaberUp = false;
                 enemysaberneutral = Instantiate(EnemySaberNeutral);
-                //Adds listener for the unity event so that this instantiated object can be yoinked
+                //Adds listener for the unity event so that this instantiated object can be yoinked and used within the combat script. Specifically the EnemyCombat(); Function
                 EnemyController enemyController = enemysaberneutral.GetComponent<EnemyController>();
                 enemyController.OnCombo.AddListener(combatScript.EnemyCombat);
             }
@@ -112,7 +114,7 @@ public class Spawner : MonoBehaviour
                 enemySaberDown = false;
                 enemySaberUp = true;
                 enemysaberup = Instantiate(EnemySaberUp);
-                //Adds listener for the unity event so that this instantiated object can be yoinked
+                //Adds listener for the unity event so that this instantiated object can be yoinked and used within the combat script. Specifically the EnemyCombat(); Function
                 EnemyController enemyController = enemysaberup.GetComponent<EnemyController>();
                 enemyController.OnCombo.AddListener(combatScript.EnemyCombat);
             }
@@ -122,7 +124,7 @@ public class Spawner : MonoBehaviour
                 enemySaberDown = true;
                 enemySaberUp = false;
                 enemysaberdown = Instantiate(EnemySaberDown);
-                //Adds listener for the unity event so that this instantiated object can be yoinked
+                //Adds listener for the unity event so that this instantiated object can be yoinked and used within the combat script. Specifically the EnemyCombat(); Function
                 EnemyController enemyController = enemysaberdown.GetComponent<EnemyController>();
                 enemyController.OnCombo.AddListener(combatScript.EnemyCombat);
             }
