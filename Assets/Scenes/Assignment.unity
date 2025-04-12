@@ -392,8 +392,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1646772706}
   - component: {fileID: 1646772705}
+  - component: {fileID: 1646772707}
   m_Layer: 0
-  m_Name: Stance Spawner
+  m_Name: StanceSpawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -417,6 +418,15 @@ MonoBehaviour:
   EnemySaberDown: {fileID: 4535207452695197520, guid: c1f124d586ee80e41a99e487b0ae830f, type: 3}
   EnemySaberUp: {fileID: 5911101000484508891, guid: 0bfa4b9fd7507c64cbb4793753afee94, type: 3}
   EnemySaberNeutral: {fileID: 5156758769565233758, guid: e4bc32adadc290444ab728325cbaf27e, type: 3}
+  saberneutral: {fileID: 0}
+  saberup: {fileID: 0}
+  saberdown: {fileID: 0}
+  playerSaberNeutral: 1
+  playerSaberUp: 0
+  playerSaberDown: 0
+  enemySaberNeutral: 0
+  enemySaberDown: 0
+  enemySaberUp: 1
 --- !u!4 &1646772706
 Transform:
   m_ObjectHideFlags: 0
@@ -432,6 +442,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1646772707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1646772704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5454d3aa6bd494692aaa437d2e3055, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StanceSpawner: {fileID: 1646772704}
+  EnemySaberDown: {fileID: 0}
+  EnemySaberUp: {fileID: 0}
+  EnemySaberNeutral: {fileID: 0}
 --- !u!1 &1717967122
 GameObject:
   m_ObjectHideFlags: 0

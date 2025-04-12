@@ -18,8 +18,8 @@ public class Combat : MonoBehaviour
     void Start()
     {
         spawnscript = StanceSpawner.GetComponent<Spawner>();
-        enemyController = EnemySaberUp.GetComponent<EnemyController>();
-        enemyController.OnUpwardCombo.AddListener(EnemyCombat);
+       
+       
     }
 
     // Update is called once per frame
@@ -27,11 +27,33 @@ public class Combat : MonoBehaviour
     {
        
     }
-    void EnemyCombat()
+    public void EnemyCombat()
     {
-        if(spawnscript.playerSaberUp == true  && spawnscript.enemySaberDown == true )
+        if(spawnscript.playerSaberUp == true  && spawnscript.enemySaberUp == true )
         {
-            Destroy(EnemySaberUp);
+
+            Destroy(spawnscript.enemysaberup);
+            Debug.Log("Enemy hit");
+        }
+        else if (spawnscript.playerSaberDown == true && spawnscript.enemySaberDown == true)
+        {
+            Destroy(spawnscript.enemysaberdown);
+            Debug.Log("Enemy hit");
+        }
+        else if (spawnscript.playerSaberNeutral == true && spawnscript.enemySaberNeutral == true)
+        {
+            Destroy(spawnscript.enemysaberneutral);
+            Debug.Log("Enemy hit");
+        }
+        else  {
+            Destroy(spawnscript.saberdown);
+            Destroy(spawnscript.saberneutral);
+            Destroy(spawnscript.saberup);
+            Destroy(spawnscript.enemysaberup);
+            Destroy(spawnscript.enemysaberdown);
+            Destroy(spawnscript.enemysaberneutral);
+
+
         }
     }
 }

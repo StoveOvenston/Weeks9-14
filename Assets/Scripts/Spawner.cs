@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Spawner : MonoBehaviour
 {
@@ -12,14 +13,18 @@ public class Spawner : MonoBehaviour
     public GameObject EnemySaberDown;
     public GameObject EnemySaberUp;
     public GameObject EnemySaberNeutral;
+    //Creating Object with scripts attached
+    public GameObject Combat;
+    //Creating references to other scripts
+    Combat combatScript;
     //CReating  game objects for instantiated objects making them public so that they be referenced elsewhere
     public GameObject saberneutral;
    public  GameObject saberup;
      public GameObject saberdown;
     //Same for enemies
-     GameObject enemysaberdown;
-     GameObject enemysaberup;
-     GameObject enemysaberneutral;
+    public GameObject enemysaberdown;
+     public GameObject enemysaberup;
+    public  GameObject enemysaberneutral;
     int enemySpawn;
     //Creating a boolean for each stance (enemy and player)
     //Player saber neutral is initially set to true as that is the stance the player sprite holds upon starting the game
@@ -35,6 +40,8 @@ public class Spawner : MonoBehaviour
     void Start()
     {
         saberneutral = Instantiate(SaberNeutral);
+        //Get component from combat object to get access to combat script
+        combatScript = Combat.GetComponent<Combat>();
     }
 
     // Update is called once per frame
@@ -74,6 +81,7 @@ public class Spawner : MonoBehaviour
             playerSaberUp = true;
             playerSaberDown = false;
             saberup = Instantiate(SaberUp);
+           
         }
         if (Input.GetKeyDown(KeyCode.S) && saberdown == null) {
             playerSaberNeutral = false;
@@ -94,6 +102,9 @@ public class Spawner : MonoBehaviour
                 enemySaberDown = false;
                 enemySaberUp = false;
                 enemysaberneutral = Instantiate(EnemySaberNeutral);
+                //Adds listener for the unity event so that this instantiated object can be yoinked
+                EnemyController enemyController = enemysaberneutral.GetComponent<EnemyController>();
+                enemyController.OnCombo.AddListener(combatScript.EnemyCombat);
             }
             if (enemySpawn == 2 && enemysaberup == null)
             {
@@ -101,6 +112,9 @@ public class Spawner : MonoBehaviour
                 enemySaberDown = false;
                 enemySaberUp = true;
                 enemysaberup = Instantiate(EnemySaberUp);
+                //Adds listener for the unity event so that this instantiated object can be yoinked
+                EnemyController enemyController = enemysaberup.GetComponent<EnemyController>();
+                enemyController.OnCombo.AddListener(combatScript.EnemyCombat);
             }
             if (enemySpawn == 3 && enemysaberdown == null)
             {
@@ -108,6 +122,9 @@ public class Spawner : MonoBehaviour
                 enemySaberDown = true;
                 enemySaberUp = false;
                 enemysaberdown = Instantiate(EnemySaberDown);
+                //Adds listener for the unity event so that this instantiated object can be yoinked
+                EnemyController enemyController = enemysaberdown.GetComponent<EnemyController>();
+                enemyController.OnCombo.AddListener(combatScript.EnemyCombat);
             }
        }
     }

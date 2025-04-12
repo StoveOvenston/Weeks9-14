@@ -6,7 +6,11 @@ using UnityEngine.Events;
 
 public class EnemyController : MonoBehaviour
 {
-    public UnityEvent OnUpwardCombo;
+
+    //Event
+    public UnityEvent OnCombo;
+    //public UnityEvent OnDownwardCombo;
+   // public UnityEvent OnNeutralCombo;
     //Coroutine for enemymovement
     Coroutine enemyMovement;
     // Start is called before the first frame update
@@ -25,7 +29,7 @@ public class EnemyController : MonoBehaviour
     IEnumerator Enemymovement()
     {
         //Float for the speed of the enemy
-        float speed = .05f;
+        float speed = .01f;
        //Boolean value that checks if the enemy has done it's pause. If it hasn't then it can pause and if it has then it cant pause again
         bool hasPaused = false;
        //A while loop so that the movement can be constant frame by frame.
@@ -38,11 +42,19 @@ public class EnemyController : MonoBehaviour
            //Checks the position of the enemy and if it has paused. If it hasn't paused yet then the enemy stops for 2 seconds before moving again
             if (enemyPosition.x <= -7f && hasPaused == false)
             {
+                Debug.Log("Enemy has paused. Invoking combo event.");
                 yield return new WaitForSeconds(2f);
                 hasPaused = true;
+                // INvokes unity event when enemy is paused reading for the stances
+                
+                OnCombo.Invoke();
+               // OnDownwardCombo.Invoke();
+                //OnNeutralCombo.Invoke();
+
             }
-           //Yield that prevents unity from CRASHING
-            yield return null;
+         
+                //Yield that prevents unity from CRASHING
+                yield return null;
         }
        
     }
